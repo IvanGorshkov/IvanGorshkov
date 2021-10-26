@@ -2,6 +2,8 @@
 
 Москва | +79999870130 | ivanagorshkov160@gmail.com | [Telegram](https://t.me/wrld_ivan) | [GitHub](https://github.com/IvanGorshkov) | 04.04.2000
 
+* #### [Аккаунт в AppStore](https://apps.apple.com/us/developer/ivan-gorshkov/id621456941?l=ru)
+
 ## Проекты
 
 * ### Сервис размещения объявлений YSNP.KOYA
@@ -23,6 +25,7 @@
 * #### [Приложение BMSTudent на Swift](https://github.com/alSergey/BMSTudent)
 
 * #### [Работы по курсу «Подготовительный курс С/C++»](https://github.com/IvanGorshkov/prep-2020.01)
+
 
 ## Образование
 
