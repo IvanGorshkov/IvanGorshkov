@@ -44,5 +44,5 @@
 | **Операционные системы** | *Ubuntu, Mac OS* | 
 | **DataBases** | *PostgreSQL, MongoDB, SQLite, Tarantool* | 
 | **Тестирование** | *GO (go test), C/C++ (gtest), Jest, Selenium* | 
-| **Доп. навыки** | *Деплой, GitHub Action, настройка Nginx, Jira* |
+| **Доп. навыки** | *Деплой, GitHub Action, настройка Nginx, Jira, Figma* |
 | **Английский** | *intermediate* |
