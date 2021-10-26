@@ -22,7 +22,6 @@
 
 * #### [Генератор программной реализации алгоритма на языке Pascal по его схематическому описанию](https://github.com/IvanGorshkov/CodeGenerator)
 
-* #### [Приложение BMSTudent на Swift](https://github.com/alSergey/BMSTudent)
 
 * #### [Работы по курсу «Подготовительный курс С/C++»](https://github.com/IvanGorshkov/prep-2020.01)
 
